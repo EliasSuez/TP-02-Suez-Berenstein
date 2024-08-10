@@ -8,7 +8,7 @@ Console.WriteLine("Ingrese la opcion elegida");
 Console.WriteLine("1. Cargar Datos Superhéroe 1");
 Console.WriteLine("2. Cargar Datos Superhéroe 2");
 Console.WriteLine("3. Competir!");
-Console.WriteLine("4. Salir");
+Console.WriteLine("4. Salir ");
 do
 {
     opcion = int.Parse(Console.ReadLine());
